@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reflex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_multiplayer_options">MultiplayerOptions</string>
+    <string name="title_activity_single_player">SinglePlayer</string>
+    <string name="title_activity_statistics">Statistics</string>
+
+    <string name="sp_text_description">This is the Single Player game mode.\n
+        The point of this game mode is to
+    test your reaction times against
+    yourself.
+    You may access records on your
+    reaction times in the statistics
+    screen.   \n\n\n You are meant to react quickly...</string>
+
+
+
+
+
+</resources>
